@@ -72,6 +72,8 @@ The **Sustainable Smart City Assistant** is a user-friendly AI-powered applicati
 - **Madduru Mani Teja** – Developer & Designer
 
 ---
+## Demo Video:
+https://drive.google.com/file/d/18JOraURXM5SxbvtvD4jXe4MOGN9fY8dM/view?usp=sharing
 
 ## 📄 License
 
